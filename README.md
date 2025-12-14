@@ -6,7 +6,7 @@ A festive, cozy light theme designed to bring the holiday cheer to your code edi
 
 Compatible with Jupyter Notebooks.
 
-
+![White Christmas Theme Screenshot of Preview code](images\screenshot.png)
 
 ## Installation
 **Search in VS Code**: Open Extensions (`Ctrl+Shift+X` or `Cmd+Shift+X`), search for "*White Christmas Theme*" and click **Install**.
@@ -15,5 +15,5 @@ Compatible with Jupyter Notebooks.
 
 
 ## Contributing
-Recolored icon is from [Flaticon]("https://www.flaticon.com/free-icons/christmas").
+Recolored icon is from [Flaticon](https://www.flaticon.com/free-icons/christmas).
 
