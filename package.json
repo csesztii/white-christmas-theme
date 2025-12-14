@@ -1,0 +1,31 @@
+{
+    "name": "white-christmas-theme",
+    "displayName": "White Christmas Theme",
+    "description": "A festive theme to get in the holiday mood",
+    "version": "0.1.0",
+    "publisher": "csesztii",
+    "icon": "./images/logo.png",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "keywords": [
+        "christmas",
+        "holiday",
+        "light theme",
+        "festive",
+        "xmas",
+        "green"
+    ],
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "White Christmas Theme",
+                "uiTheme": "vs",
+                "path": "./themes/christmas-theme.json"
+            }
+        ]
+    }
+}
