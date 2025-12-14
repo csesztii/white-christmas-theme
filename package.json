@@ -19,6 +19,15 @@
     "categories": [
         "Themes"
     ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/csesztii/white-christmas-theme.git"
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/csesztii/white-christmas-theme/issues"
+    },
+    "homepage": "https://github.com/csesztii/white-christmas-theme#readme",
     "contributes": {
         "themes": [
             {
